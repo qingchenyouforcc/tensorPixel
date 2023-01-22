@@ -1,6 +1,6 @@
 Messages:
   Players-Only: '&c此命令仅限玩家使用'
-  Reload: '&7您已重载 Crazy Auctions 的文件'
+  Reload: '&7您已重载 Crazy Auctions 的配置文件'
   Need-More-Money: '&c你还需要 &a$%money_needed%&c.'
   Inventory-Full: '&c您的背包空间已满，请在清理后购买'
   No-Permission: '&c您没有使用这个命令的权限'
