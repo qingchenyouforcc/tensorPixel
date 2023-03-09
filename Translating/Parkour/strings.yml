@@ -1,7 +1,7 @@
 Parkour: 
-   Prefix: '&0[&b跑酷&0] &f'
-   SignHeader: '&0[&b跑酷&0]'
-   ConfigReloaded: 配置文件已重载
+   Prefix: '&0[&bParkour&0] &f'
+   SignHeader: '&0[&bParkour&0]'
+   ConfigReloaded: The config has been reloaded.
    SignRemoved: Parkour sign removed!
    SignCreated: '&b%VALUE% &fsign created.'
    Heading: -- &9&l%VALUE% &r--
